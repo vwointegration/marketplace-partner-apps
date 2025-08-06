@@ -1,5 +1,14 @@
 # Changelog
 
+## [1.0.4](https://github.com/vwointegration/marketplace-partner-apps/compare/frontify-assets-v1.0.3...frontify-assets-v1.0.4) (2025-08-06)
+
+
+### Bug Fixes
+
+* **deps:** bump axios from 1.10.0 to 1.11.0 in /apps/frontify ([#5696](https://github.com/vwointegration/marketplace-partner-apps/issues/5696)) ([0c18342](https://github.com/vwointegration/marketplace-partner-apps/commit/0c18342096f60bf2ad884ddbe19a3da837672a6f))
+* **deps:** bump form-data from 4.0.3 to 4.0.4 in /apps/frontify ([#5657](https://github.com/vwointegration/marketplace-partner-apps/issues/5657)) ([0db2faf](https://github.com/vwointegration/marketplace-partner-apps/commit/0db2faff628a0d8349f06030c24e62c3b815dbcf))
+* update to node v20 [INTEG-2829] ([#5318](https://github.com/vwointegration/marketplace-partner-apps/issues/5318)) ([fdc406d](https://github.com/vwointegration/marketplace-partner-apps/commit/fdc406d9328bc6279abb658dcf5a1bf28795a449))
+
 ## [1.0.3](https://github.com/contentful/marketplace-partner-apps/compare/frontify-assets-v1.0.2...frontify-assets-v1.0.3) (2025-07-28)
 
 
