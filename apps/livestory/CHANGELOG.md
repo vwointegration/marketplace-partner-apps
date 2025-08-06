@@ -1,5 +1,18 @@
 # Changelog
 
+## [1.0.7](https://github.com/vwointegration/marketplace-partner-apps/compare/ls-contentful-app-v1.0.6...ls-contentful-app-v1.0.7) (2025-08-06)
+
+
+### Bug Fixes
+
+* **deps:** bump @contentful/app-sdk from 4.36.0 to 4.37.0 in /apps/livestory in the production-dependencies group ([#5953](https://github.com/vwointegration/marketplace-partner-apps/issues/5953)) ([c112e36](https://github.com/vwointegration/marketplace-partner-apps/commit/c112e36aae72768bca003cb655b9979608177766))
+* **deps:** bump @contentful/app-sdk from 4.37.0 to 4.39.0 in /apps/livestory in the production-dependencies group ([#6006](https://github.com/vwointegration/marketplace-partner-apps/issues/6006)) ([1eb1f1e](https://github.com/vwointegration/marketplace-partner-apps/commit/1eb1f1efef6fee70b07b58d0c13f7c2f978f57a9))
+* **deps:** bump @contentful/f36-components from 4.80.4 to 4.81.1 in /apps/livestory in the production-dependencies group ([#5874](https://github.com/vwointegration/marketplace-partner-apps/issues/5874)) ([6e2ab0b](https://github.com/vwointegration/marketplace-partner-apps/commit/6e2ab0ba32b9543d61c9b5abe2e5fe6423ea3f5b))
+* **deps:** bump axios from 1.10.0 to 1.11.0 in /apps/livestory ([#5711](https://github.com/vwointegration/marketplace-partner-apps/issues/5711)) ([f4fd4c6](https://github.com/vwointegration/marketplace-partner-apps/commit/f4fd4c68eed870fec5461e08dbb9420667777474))
+* **deps:** bump form-data from 4.0.3 to 4.0.4 in /apps/livestory ([#5651](https://github.com/vwointegration/marketplace-partner-apps/issues/5651)) ([fdf50d9](https://github.com/vwointegration/marketplace-partner-apps/commit/fdf50d96bcf608d526afa084b103a0a9371ceb69))
+* **deps:** bump the production-dependencies group in /apps/livestory with 2 updates ([#5788](https://github.com/vwointegration/marketplace-partner-apps/issues/5788)) ([219481f](https://github.com/vwointegration/marketplace-partner-apps/commit/219481f8dd3ae3778aae4ab880564d03a32ba677))
+* update to node v20 [INTEG-2829] ([#5318](https://github.com/vwointegration/marketplace-partner-apps/issues/5318)) ([fdc406d](https://github.com/vwointegration/marketplace-partner-apps/commit/fdc406d9328bc6279abb658dcf5a1bf28795a449))
+
 ## [1.0.6](https://github.com/contentful/marketplace-partner-apps/compare/ls-contentful-app-v1.0.5...ls-contentful-app-v1.0.6) (2025-08-01)
 
 
