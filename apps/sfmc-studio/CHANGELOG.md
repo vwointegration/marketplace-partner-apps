@@ -1,5 +1,23 @@
 # Changelog
 
+## [1.2.6](https://github.com/vwointegration/marketplace-partner-apps/compare/sfmc-studio-v1.2.5...sfmc-studio-v1.2.6) (2025-08-06)
+
+
+### Bug Fixes
+
+* **deps:** bump @ant-design/plots from 2.5.0 to 2.6.0 in /apps/sfmc-studio in the production-dependencies group ([#5423](https://github.com/vwointegration/marketplace-partner-apps/issues/5423)) ([0db26e1](https://github.com/vwointegration/marketplace-partner-apps/commit/0db26e1a5df2a355619245d4aef9d31d972f188e))
+* **deps:** bump @contentful/app-sdk from 4.36.0 to 4.37.0 in /apps/sfmc-studio in the production-dependencies group ([#5929](https://github.com/vwointegration/marketplace-partner-apps/issues/5929)) ([30e4b87](https://github.com/vwointegration/marketplace-partner-apps/commit/30e4b874e1a7b2294ddacb34052b34e07a63e580))
+* **deps:** bump @eslint/plugin-kit from 0.3.3 to 0.3.4 in /apps/sfmc-studio ([#5763](https://github.com/vwointegration/marketplace-partner-apps/issues/5763)) ([eaac7da](https://github.com/vwointegration/marketplace-partner-apps/commit/eaac7daa4e85491b2441522fec9d0179968b0e3f))
+* **deps:** bump axios from 1.10.0 to 1.11.0 in /apps/sfmc-studio ([#5702](https://github.com/vwointegration/marketplace-partner-apps/issues/5702)) ([d66b156](https://github.com/vwointegration/marketplace-partner-apps/commit/d66b156de69073eb94ae52f354e41a417b36de59))
+* **deps:** bump eslint-config-prettier from 9.1.0 to 10.1.8 in /apps/sfmc-studio ([#5782](https://github.com/vwointegration/marketplace-partner-apps/issues/5782)) ([b21c78c](https://github.com/vwointegration/marketplace-partner-apps/commit/b21c78c57b0bee0ef67f4ea81499de80d005aa7c))
+* **deps:** bump form-data from 4.0.3 to 4.0.4 in /apps/sfmc-studio ([#5646](https://github.com/vwointegration/marketplace-partner-apps/issues/5646)) ([537efd1](https://github.com/vwointegration/marketplace-partner-apps/commit/537efd1034cae3f0d0271a1e118dcebeb9f764e5))
+* **deps:** bump sass from 1.89.2 to 1.90.0 in /apps/sfmc-studio in the production-dependencies group ([#6037](https://github.com/vwointegration/marketplace-partner-apps/issues/6037)) ([cd82282](https://github.com/vwointegration/marketplace-partner-apps/commit/cd82282943e49ded9e6fa9dffb73431cbf6ef157))
+* **deps:** bump the production-dependencies group in /apps/sfmc-studio with 2 updates ([#5440](https://github.com/vwointegration/marketplace-partner-apps/issues/5440)) ([c1f7398](https://github.com/vwointegration/marketplace-partner-apps/commit/c1f7398ff2f27705fae1fe47c31c436003c0d982))
+* **deps:** bump the production-dependencies group in /apps/sfmc-studio with 2 updates ([#5991](https://github.com/vwointegration/marketplace-partner-apps/issues/5991)) ([d0a2d30](https://github.com/vwointegration/marketplace-partner-apps/commit/d0a2d3045ae39987d49334aa2439b73f66f0b39e))
+* **deps:** bump the production-dependencies group in /apps/sfmc-studio with 3 updates ([#5878](https://github.com/vwointegration/marketplace-partner-apps/issues/5878)) ([d6e3463](https://github.com/vwointegration/marketplace-partner-apps/commit/d6e3463913620dd40adf0f2ef78e631748455871))
+* **deps:** bump the production-dependencies group in /apps/sfmc-studio with 6 updates ([#5789](https://github.com/vwointegration/marketplace-partner-apps/issues/5789)) ([b714d69](https://github.com/vwointegration/marketplace-partner-apps/commit/b714d6991672bc498bffbc2ea4fec740390587f0))
+* update to node v20 [INTEG-2829] ([#5318](https://github.com/vwointegration/marketplace-partner-apps/issues/5318)) ([fdc406d](https://github.com/vwointegration/marketplace-partner-apps/commit/fdc406d9328bc6279abb658dcf5a1bf28795a449))
+
 ## [1.2.5](https://github.com/contentful/marketplace-partner-apps/compare/sfmc-studio-v1.2.4...sfmc-studio-v1.2.5) (2025-08-01)
 
 
