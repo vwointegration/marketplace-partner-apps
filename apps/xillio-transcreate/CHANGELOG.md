@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.0.4](https://github.com/vwointegration/marketplace-partner-apps/compare/xillio-transcreate-v1.0.3...xillio-transcreate-v1.0.4) (2025-08-06)
+
+
+### Bug Fixes
+
+* update to node v20 [INTEG-2829] ([#5318](https://github.com/vwointegration/marketplace-partner-apps/issues/5318)) ([fdc406d](https://github.com/vwointegration/marketplace-partner-apps/commit/fdc406d9328bc6279abb658dcf5a1bf28795a449))
+
 ## [1.0.3](https://github.com/contentful/marketplace-partner-apps/compare/xillio-transcreate-v1.0.2...xillio-transcreate-v1.0.3) (2025-07-02)
 
 
