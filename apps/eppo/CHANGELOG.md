@@ -1,5 +1,18 @@
 # Changelog
 
+## [1.0.9](https://github.com/vwointegration/marketplace-partner-apps/compare/eppo-contentful-app-v1.0.8...eppo-contentful-app-v1.0.9) (2025-08-06)
+
+
+### Bug Fixes
+
+* **deps:** bump @contentful/app-sdk from 4.37.0 to 4.39.0 in /apps/eppo in the production-dependencies group ([#6024](https://github.com/vwointegration/marketplace-partner-apps/issues/6024)) ([633e796](https://github.com/vwointegration/marketplace-partner-apps/commit/633e796b23d5a37ab13b0e54d6015e7d3a95db33))
+* **deps:** bump axios from 1.10.0 to 1.11.0 in /apps/eppo ([#5697](https://github.com/vwointegration/marketplace-partner-apps/issues/5697)) ([8e8697b](https://github.com/vwointegration/marketplace-partner-apps/commit/8e8697bac445e92c65cb3d6fe777d8a2b9cd3fc7))
+* **deps:** bump form-data in /apps/eppo ([#5656](https://github.com/vwointegration/marketplace-partner-apps/issues/5656)) ([06bd370](https://github.com/vwointegration/marketplace-partner-apps/commit/06bd370e87c16aa02024456aebe03fb2f6ca0442))
+* **deps:** bump on-headers and compression in /apps/eppo ([#5616](https://github.com/vwointegration/marketplace-partner-apps/issues/5616)) ([3dde707](https://github.com/vwointegration/marketplace-partner-apps/commit/3dde707658ee3ad2adef5660f58432125014faaa))
+* **deps:** bump the production-dependencies group in /apps/eppo with 4 updates ([#5453](https://github.com/vwointegration/marketplace-partner-apps/issues/5453)) ([fb8aadf](https://github.com/vwointegration/marketplace-partner-apps/commit/fb8aadf83526e6b5df0da82a0bb995ecc4ec253b))
+* **deps:** bump the production-dependencies group in /apps/eppo with 6 updates ([#5932](https://github.com/vwointegration/marketplace-partner-apps/issues/5932)) ([709a843](https://github.com/vwointegration/marketplace-partner-apps/commit/709a8436acbdd3e7930e0d41cd6989a90bb897ae))
+* update to node v20 [INTEG-2829] ([#5318](https://github.com/vwointegration/marketplace-partner-apps/issues/5318)) ([fdc406d](https://github.com/vwointegration/marketplace-partner-apps/commit/fdc406d9328bc6279abb658dcf5a1bf28795a449))
+
 ## [1.0.8](https://github.com/contentful/marketplace-partner-apps/compare/eppo-contentful-app-v1.0.7...eppo-contentful-app-v1.0.8) (2025-08-01)
 
 
