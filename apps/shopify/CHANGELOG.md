@@ -1,5 +1,17 @@
 # Changelog
 
+## [2.1.6](https://github.com/vwointegration/marketplace-partner-apps/compare/shopify-sku-v2.1.5...shopify-sku-v2.1.6) (2025-08-06)
+
+
+### Bug Fixes
+
+* **deps:** bump @contentful/f36-components from 4.80.5 to 4.81.1 in /apps/shopify in the production-dependencies group ([#5869](https://github.com/vwointegration/marketplace-partner-apps/issues/5869)) ([63fc716](https://github.com/vwointegration/marketplace-partner-apps/commit/63fc71627c7507b2fbb60cc5d7106b9c031b5699))
+* **deps:** bump @shopify/storefront-api-client from 1.0.8 to 1.0.9 in /apps/shopify in the production-dependencies group ([#5779](https://github.com/vwointegration/marketplace-partner-apps/issues/5779)) ([2ad1b71](https://github.com/vwointegration/marketplace-partner-apps/commit/2ad1b719910164510498770c742469dfe5a0bb04))
+* **deps:** bump axios from 1.10.0 to 1.11.0 in /apps/shopify ([#5703](https://github.com/vwointegration/marketplace-partner-apps/issues/5703)) ([0baf28e](https://github.com/vwointegration/marketplace-partner-apps/commit/0baf28e4204d43a1e7d1f1b64a65d0c3e10fd062))
+* **deps:** bump core-js from 3.44.0 to 3.45.0 in /apps/shopify in the production-dependencies group ([#6004](https://github.com/vwointegration/marketplace-partner-apps/issues/6004)) ([c974c2c](https://github.com/vwointegration/marketplace-partner-apps/commit/c974c2ce399aa790ac960210c76de856ee42e249))
+* **deps:** bump the production-dependencies group in /apps/shopify with 2 updates ([#5520](https://github.com/vwointegration/marketplace-partner-apps/issues/5520)) ([7b1add9](https://github.com/vwointegration/marketplace-partner-apps/commit/7b1add9ff0b148ddb9ea8a9d2ecff7e954b4c696))
+* update to node v20 [INTEG-2829] ([#5318](https://github.com/vwointegration/marketplace-partner-apps/issues/5318)) ([fdc406d](https://github.com/vwointegration/marketplace-partner-apps/commit/fdc406d9328bc6279abb658dcf5a1bf28795a449))
+
 ## [2.1.5](https://github.com/contentful/marketplace-partner-apps/compare/shopify-sku-v2.1.4...shopify-sku-v2.1.5) (2025-08-01)
 
 
