@@ -1,5 +1,17 @@
 # Changelog
 
+## [1.0.34](https://github.com/vwointegration/marketplace-partner-apps/compare/surfer-contentful-app-v1.0.33...surfer-contentful-app-v1.0.34) (2025-08-06)
+
+
+### Bug Fixes
+
+* **deps:** bump @contentful/app-sdk from 4.37.0 to 4.39.0 in /apps/surfer in the production-dependencies group ([#6014](https://github.com/vwointegration/marketplace-partner-apps/issues/6014)) ([74ce280](https://github.com/vwointegration/marketplace-partner-apps/commit/74ce280acfefe0ca898d79dfdf4054b02655a70b))
+* **deps:** bump axios from 1.10.0 to 1.11.0 in /apps/surfer ([#5699](https://github.com/vwointegration/marketplace-partner-apps/issues/5699)) ([224bc03](https://github.com/vwointegration/marketplace-partner-apps/commit/224bc03220ccbe1db8f98673f58fa71aa33413b8))
+* **deps:** bump form-data from 4.0.3 to 4.0.4 in /apps/surfer ([#5648](https://github.com/vwointegration/marketplace-partner-apps/issues/5648)) ([4604610](https://github.com/vwointegration/marketplace-partner-apps/commit/460461006194375b42bb0db4ad42b661bcfbbfc1))
+* **deps:** bump the production-dependencies group in /apps/surfer with 3 updates ([#5516](https://github.com/vwointegration/marketplace-partner-apps/issues/5516)) ([c1d562d](https://github.com/vwointegration/marketplace-partner-apps/commit/c1d562df3bd82f37384974ebf91b29a41e945f1c))
+* **deps:** bump the production-dependencies group in /apps/surfer with 4 updates ([#5922](https://github.com/vwointegration/marketplace-partner-apps/issues/5922)) ([9350e47](https://github.com/vwointegration/marketplace-partner-apps/commit/9350e477042eda5de33bdbf7e4c9064569b19321))
+* update to node v20 [INTEG-2829] ([#5318](https://github.com/vwointegration/marketplace-partner-apps/issues/5318)) ([fdc406d](https://github.com/vwointegration/marketplace-partner-apps/commit/fdc406d9328bc6279abb658dcf5a1bf28795a449))
+
 ## [1.0.33](https://github.com/contentful/marketplace-partner-apps/compare/surfer-contentful-app-v1.0.32...surfer-contentful-app-v1.0.33) (2025-08-01)
 
 
