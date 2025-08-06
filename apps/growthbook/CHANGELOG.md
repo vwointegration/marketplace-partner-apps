@@ -1,5 +1,19 @@
 # Changelog
 
+## [1.2.7](https://github.com/vwointegration/marketplace-partner-apps/compare/growthbook-contentful-app-v1.2.6...growthbook-contentful-app-v1.2.7) (2025-08-06)
+
+
+### Bug Fixes
+
+* **deps:** bump @contentful/app-sdk from 4.36.0 to 4.37.0 in /apps/growthbook in the production-dependencies group ([#5923](https://github.com/vwointegration/marketplace-partner-apps/issues/5923)) ([6ed6da4](https://github.com/vwointegration/marketplace-partner-apps/commit/6ed6da47ff5cfeaa56a45a3819796d2029b918d6))
+* **deps:** bump @contentful/app-sdk from 4.37.0 to 4.39.0 in /apps/growthbook in the production-dependencies group ([#6016](https://github.com/vwointegration/marketplace-partner-apps/issues/6016)) ([eb29ed4](https://github.com/vwointegration/marketplace-partner-apps/commit/eb29ed4a9b09e64e96ef6a5bd042203ac0c9d1a0))
+* **deps:** bump axios from 1.10.0 to 1.11.0 in /apps/growthbook ([#5692](https://github.com/vwointegration/marketplace-partner-apps/issues/5692)) ([f28857f](https://github.com/vwointegration/marketplace-partner-apps/commit/f28857f022f6c41ab9f7bc738f2412a25e730cd5))
+* **deps:** bump form-data from 4.0.3 to 4.0.4 in /apps/growthbook ([#5659](https://github.com/vwointegration/marketplace-partner-apps/issues/5659)) ([361c1df](https://github.com/vwointegration/marketplace-partner-apps/commit/361c1dfda59674766a68f350152f7169474c86b0))
+* **deps:** bump the production-dependencies group in /apps/growthbook with 2 updates ([#5434](https://github.com/vwointegration/marketplace-partner-apps/issues/5434)) ([11d88af](https://github.com/vwointegration/marketplace-partner-apps/commit/11d88af1fe581d62c446dd20930f02c116114d90))
+* **deps:** bump the production-dependencies group in /apps/growthbook with 2 updates ([#5809](https://github.com/vwointegration/marketplace-partner-apps/issues/5809)) ([6f54120](https://github.com/vwointegration/marketplace-partner-apps/commit/6f541203538428051964c7f8307bef54c932e04c))
+* **deps:** bump the production-dependencies group in /apps/growthbook with 2 updates ([#5867](https://github.com/vwointegration/marketplace-partner-apps/issues/5867)) ([042a0b4](https://github.com/vwointegration/marketplace-partner-apps/commit/042a0b4a8d009455c3824f4af5be9cfea5380645))
+* update to node v20 [INTEG-2829] ([#5318](https://github.com/vwointegration/marketplace-partner-apps/issues/5318)) ([fdc406d](https://github.com/vwointegration/marketplace-partner-apps/commit/fdc406d9328bc6279abb658dcf5a1bf28795a449))
+
 ## [1.2.6](https://github.com/contentful/marketplace-partner-apps/compare/growthbook-contentful-app-v1.2.5...growthbook-contentful-app-v1.2.6) (2025-08-01)
 
 
