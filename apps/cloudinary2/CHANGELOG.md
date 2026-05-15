@@ -1,5 +1,30 @@
 # Changelog
 
+## [1.5.0](https://github.com/vwointegration/marketplace-partner-apps/compare/cloudinary-assets-v1.4.1...cloudinary-assets-v1.5.0) (2026-05-15)
+
+
+### Features
+
+* cloudinary show asset button only [] ([#7923](https://github.com/vwointegration/marketplace-partner-apps/issues/7923)) ([013a523](https://github.com/vwointegration/marketplace-partner-apps/commit/013a52328d09a181d5af9c980ac90a46f7f39966))
+
+
+### Bug Fixes
+
+* cloudinary start folder help text + placeholder [ZEND-7289] ([#7434](https://github.com/vwointegration/marketplace-partner-apps/issues/7434)) ([c4181c7](https://github.com/vwointegration/marketplace-partner-apps/commit/c4181c7610677d782a4d4bcea155f6d3c3276da0))
+* cloudinary-search-filter [CLD-1234] ([#7365](https://github.com/vwointegration/marketplace-partner-apps/issues/7365)) ([196095d](https://github.com/vwointegration/marketplace-partner-apps/commit/196095d48708a455b85c30f48cc8814040824511))
+* **cloudinary2:** undefined in video thumbnail URLs [ES-229] ([#8181](https://github.com/vwointegration/marketplace-partner-apps/issues/8181)) ([f2e6e45](https://github.com/vwointegration/marketplace-partner-apps/commit/f2e6e451888c92684d2f9c9226f473683a352cfd))
+* **deps:** bump axios from 1.12.2 to 1.13.5 in /apps/cloudinary2 ([#7785](https://github.com/vwointegration/marketplace-partner-apps/issues/7785)) ([39b4884](https://github.com/vwointegration/marketplace-partner-apps/commit/39b48844b16f2c1b3cab2f07440e03712d03a6e6))
+* **deps:** bump lodash from 4.17.21 to 4.17.23 in /apps/cloudinary2 ([#7721](https://github.com/vwointegration/marketplace-partner-apps/issues/7721)) ([8de83ac](https://github.com/vwointegration/marketplace-partner-apps/commit/8de83ac6d05173d18b7c0142dc968bb848517990))
+* **deps:** bump picomatch in /apps/cloudinary2 ([#7983](https://github.com/vwointegration/marketplace-partner-apps/issues/7983)) ([56ce7c2](https://github.com/vwointegration/marketplace-partner-apps/commit/56ce7c214a181aa3d5099f850975eb26e6987828))
+* **deps:** bump qs from 6.14.0 to 6.14.1 in /apps/cloudinary2 ([#7579](https://github.com/vwointegration/marketplace-partner-apps/issues/7579)) ([91c6f9b](https://github.com/vwointegration/marketplace-partner-apps/commit/91c6f9b75fa15cbc7eab319e89707e4434ecd6d1))
+* **deps:** bump qs from 6.14.1 to 6.14.2 in /apps/cloudinary2 ([#7828](https://github.com/vwointegration/marketplace-partner-apps/issues/7828)) ([ad635f7](https://github.com/vwointegration/marketplace-partner-apps/commit/ad635f78ec28398528a37e6e53774d87d017af5b))
+* **deps:** Bump rollup from 4.44.1 to 4.59.0 in /apps/cloudinary2 ([#7883](https://github.com/vwointegration/marketplace-partner-apps/issues/7883)) ([dd60bc0](https://github.com/vwointegration/marketplace-partner-apps/commit/dd60bc088e8138858c7f78cceb0138210ac1834b))
+
+
+### Reverts
+
+* clarify cloudinary starting folder syntax [ZEND-7289] ([#7433](https://github.com/vwointegration/marketplace-partner-apps/issues/7433)) ([97ea10c](https://github.com/vwointegration/marketplace-partner-apps/commit/97ea10ce0125363cefc1a9f4ef184b22a0f704cc))
+
 ## [1.4.1](https://github.com/contentful/marketplace-partner-apps/compare/cloudinary-assets-v1.4.0...cloudinary-assets-v1.4.1) (2026-05-07)
 
 
