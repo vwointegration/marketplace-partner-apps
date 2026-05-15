@@ -1,5 +1,33 @@
 # Changelog
 
+## [1.8.0](https://github.com/vwointegration/marketplace-partner-apps/compare/bynder-assets-v1.7.2...bynder-assets-v1.8.0) (2026-05-15)
+
+
+### Features
+
+* add streaming link support for Bynder video assets [] ([#7934](https://github.com/vwointegration/marketplace-partner-apps/issues/7934)) ([e4ddbb6](https://github.com/vwointegration/marketplace-partner-apps/commit/e4ddbb635b0596c8189d1fcfe0f47b8f2a831c5c))
+* adding refresh assets mechanism [ZEND-7539] ([#7746](https://github.com/vwointegration/marketplace-partner-apps/issues/7746)) ([49596c4](https://github.com/vwointegration/marketplace-partner-apps/commit/49596c4f0baf85ef51e4485715e651978644c515))
+* bynder streaming link support [ZEND-7539] ([#7937](https://github.com/vwointegration/marketplace-partner-apps/issues/7937)) ([53f7e48](https://github.com/vwointegration/marketplace-partner-apps/commit/53f7e482864ce688be29b68b1825ffd36151d9b4))
+* field storage updates [] ([#7936](https://github.com/vwointegration/marketplace-partner-apps/issues/7936)) ([f927aa9](https://github.com/vwointegration/marketplace-partner-apps/commit/f927aa981ce731efe43bb55d8a52f8b0aa533386))
+
+
+### Bug Fixes
+
+* **bynder:** Compact View resizing [FSB-11085] ([#8177](https://github.com/vwointegration/marketplace-partner-apps/issues/8177)) ([2c959ae](https://github.com/vwointegration/marketplace-partner-apps/commit/2c959ae3e5120df23baf0dc87900b57b919f4b0c))
+* **bynder:** fallback to original image if thumbnails unavailable [ZEND-7453] ([#7745](https://github.com/vwointegration/marketplace-partner-apps/issues/7745)) ([7b4d796](https://github.com/vwointegration/marketplace-partner-apps/commit/7b4d796d0547412f8201bd2bb07dad055dc75b47))
+* **bynder:** preserve Bynder 8-4-4-16 asset id [ZEND-7663] ([#7889](https://github.com/vwointegration/marketplace-partner-apps/issues/7889)) ([68cfc43](https://github.com/vwointegration/marketplace-partner-apps/commit/68cfc43500f0e5049ce91d21e94da64d951023d9))
+* **bynder:** thumbnails [ZEND-7453] ([#7722](https://github.com/vwointegration/marketplace-partner-apps/issues/7722)) ([84377cb](https://github.com/vwointegration/marketplace-partner-apps/commit/84377cba00b4954a99ac90bca28e6f15a6055333))
+* **deps:** bump axios from 1.12.2 to 1.13.5 in /apps/bynder ([#7793](https://github.com/vwointegration/marketplace-partner-apps/issues/7793)) ([e4ba2b7](https://github.com/vwointegration/marketplace-partner-apps/commit/e4ba2b70b1b91eab3c16d183927b264b33538b8f))
+* **deps:** bump graphql-yoga from 5.16.1 to 5.16.2 in /apps/bynder in the production-dependencies group ([#7222](https://github.com/vwointegration/marketplace-partner-apps/issues/7222)) ([f1a1e45](https://github.com/vwointegration/marketplace-partner-apps/commit/f1a1e4597a45e0f0b88be6fde7b1fb2df7f5225a))
+* **deps:** bump graphql-yoga from 5.16.2 to 5.17.1 in /apps/bynder in the production-dependencies group ([#7536](https://github.com/vwointegration/marketplace-partner-apps/issues/7536)) ([00da2b6](https://github.com/vwointegration/marketplace-partner-apps/commit/00da2b6d73bdfa13d3ae73e00fd5000960997a5f))
+* **deps:** bump js-yaml from 3.14.1 to 3.14.2 in /apps/bynder ([#7356](https://github.com/vwointegration/marketplace-partner-apps/issues/7356)) ([419314e](https://github.com/vwointegration/marketplace-partner-apps/commit/419314ea34ac7c867149c768d64aa3f9f7003721))
+* **deps:** bump jws from 3.2.2 to 3.2.3 in /apps/bynder ([#7432](https://github.com/vwointegration/marketplace-partner-apps/issues/7432)) ([a0315f1](https://github.com/vwointegration/marketplace-partner-apps/commit/a0315f1baa7422507f174fe0962eeea4d5da83be))
+* **deps:** bump qs from 6.14.0 to 6.14.1 in /apps/bynder ([#7598](https://github.com/vwointegration/marketplace-partner-apps/issues/7598)) ([bf95292](https://github.com/vwointegration/marketplace-partner-apps/commit/bf95292a5b52b5e19d2cb970fedad71a8759081b))
+* **deps:** bump qs from 6.14.0 to 6.14.2 in /apps/bynder ([#7830](https://github.com/vwointegration/marketplace-partner-apps/issues/7830)) ([857bb71](https://github.com/vwointegration/marketplace-partner-apps/commit/857bb71dc60b743ac2284cf012270f5348b03942))
+* **deps:** Bump rollup from 4.45.1 to 4.59.0 in /apps/bynder ([#7884](https://github.com/vwointegration/marketplace-partner-apps/issues/7884)) ([eba236d](https://github.com/vwointegration/marketplace-partner-apps/commit/eba236d2fe13c0fb47c189a47fce3ade214ae715))
+* preserve existing thumbnails and original on refresh [ZEND-7539] ([#7927](https://github.com/vwointegration/marketplace-partner-apps/issues/7927)) ([537cd78](https://github.com/vwointegration/marketplace-partner-apps/commit/537cd789a03fb9005b17c1875615342ff63fea3e))
+* ucv url adjustment [] ([#7940](https://github.com/vwointegration/marketplace-partner-apps/issues/7940)) ([9f00404](https://github.com/vwointegration/marketplace-partner-apps/commit/9f00404c38c132814d9c4f775294b0e716653a5c))
+
 ## [1.7.2](https://github.com/contentful/marketplace-partner-apps/compare/bynder-assets-v1.7.1...bynder-assets-v1.7.2) (2026-05-06)
 
 
