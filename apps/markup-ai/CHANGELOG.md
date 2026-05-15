@@ -1,5 +1,39 @@
 # Changelog
 
+## [1.4.0](https://github.com/vwointegration/marketplace-partner-apps/compare/markup-ai-contentful-app-v1.3.0...markup-ai-contentful-app-v1.4.0) (2026-05-15)
+
+
+### Features
+
+* introduce new field editor workflow [] ([#7836](https://github.com/vwointegration/marketplace-partner-apps/issues/7836)) ([52e6c49](https://github.com/vwointegration/marketplace-partner-apps/commit/52e6c49e17ce88cbf0e92c45a3954f996cf69a89))
+* introduce style agent based scanning [INTEG-3958] ([#8194](https://github.com/vwointegration/marketplace-partner-apps/issues/8194)) ([20bc65a](https://github.com/vwointegration/marketplace-partner-apps/commit/20bc65aafd3ae5927e79ef4255ecacc2bc004afe))
+* markup-ai use OAuth based sign-in workflow [INTEG-3323] ([#7430](https://github.com/vwointegration/marketplace-partner-apps/issues/7430)) ([8e46b85](https://github.com/vwointegration/marketplace-partner-apps/commit/8e46b85ba7434536570f2cab5153ccf84f874f98))
+
+
+### Bug Fixes
+
+* **deps:** bump axios from 1.13.2 to 1.13.5 in /apps/markup-ai ([#7770](https://github.com/vwointegration/marketplace-partner-apps/issues/7770)) ([8dfbb2e](https://github.com/vwointegration/marketplace-partner-apps/commit/8dfbb2ec7d3d9b7151dc3c61b9e3df147b71eacf))
+* **deps:** bump axios from 1.13.4 to 1.13.6 in /apps/markup-ai ([#7896](https://github.com/vwointegration/marketplace-partner-apps/issues/7896)) ([5b3a865](https://github.com/vwointegration/marketplace-partner-apps/commit/5b3a865c2001cfaf6b6b97fd4a01c33b34767cf3))
+* **deps:** bump diff from 8.0.2 to 8.0.3 in /apps/markup-ai ([#7713](https://github.com/vwointegration/marketplace-partner-apps/issues/7713)) ([2563e61](https://github.com/vwointegration/marketplace-partner-apps/commit/2563e612c90974df0ba0a2ef10cd95840e300590))
+* **deps:** bump flatted from 3.3.3 to 3.4.2 in /apps/markup-ai ([#7966](https://github.com/vwointegration/marketplace-partner-apps/issues/7966)) ([ce99d3e](https://github.com/vwointegration/marketplace-partner-apps/commit/ce99d3e8fb2796972a3a227a21fe38034eeb2212))
+* **deps:** bump glob and @vitest/coverage-v8 in /apps/markup-ai ([#7354](https://github.com/vwointegration/marketplace-partner-apps/issues/7354)) ([a53a625](https://github.com/vwointegration/marketplace-partner-apps/commit/a53a625a210c5565881bc7362da4c4598306805c))
+* **deps:** bump js-yaml from 4.1.0 to 4.1.1 in /apps/markup-ai ([#7341](https://github.com/vwointegration/marketplace-partner-apps/issues/7341)) ([455bf05](https://github.com/vwointegration/marketplace-partner-apps/commit/455bf056230d2a8f7bd78137fd5bb1e5997fb46d))
+* **deps:** bump markdown-it from 14.1.0 to 14.1.1 in /apps/markup-ai ([#7835](https://github.com/vwointegration/marketplace-partner-apps/issues/7835)) ([6d0ea8d](https://github.com/vwointegration/marketplace-partner-apps/commit/6d0ea8d7f2cb65b4d048a1eb59e69c5a53cfb183))
+* **deps:** bump picomatch from 4.0.3 to 4.0.4 in /apps/markup-ai ([#8012](https://github.com/vwointegration/marketplace-partner-apps/issues/8012)) ([dfe252c](https://github.com/vwointegration/marketplace-partner-apps/commit/dfe252ca088bbf495787bd8a5b31d300c413b6ee))
+* **deps:** bump qs from 6.14.0 to 6.14.1 in /apps/markup-ai ([#7601](https://github.com/vwointegration/marketplace-partner-apps/issues/7601)) ([0f6753b](https://github.com/vwointegration/marketplace-partner-apps/commit/0f6753bf937af6768257188335c3069ab8d05549))
+* **deps:** bump qs from 6.14.1 to 6.14.2 in /apps/markup-ai ([#7812](https://github.com/vwointegration/marketplace-partner-apps/issues/7812)) ([497475e](https://github.com/vwointegration/marketplace-partner-apps/commit/497475e58fe34bfd5d7babff092c8f97566ccc1a))
+* **deps:** bump qs from 6.14.1 to 6.15.0 in /apps/markup-ai ([#7895](https://github.com/vwointegration/marketplace-partner-apps/issues/7895)) ([154657e](https://github.com/vwointegration/marketplace-partner-apps/commit/154657e68cfc6473b053a8b37b7808725412e6c0))
+* **deps:** Bump rollup from 4.53.3 to 4.59.0 in /apps/markup-ai ([#7871](https://github.com/vwointegration/marketplace-partner-apps/issues/7871)) ([27d9879](https://github.com/vwointegration/marketplace-partner-apps/commit/27d98791e0fe75918af6129cec04ac4bdc0ff593))
+* **deps:** bump the production-dependencies group across 1 directory with 10 updates ([#7490](https://github.com/vwointegration/marketplace-partner-apps/issues/7490)) ([4de4e04](https://github.com/vwointegration/marketplace-partner-apps/commit/4de4e048352676ae97a08eed87304da1dd0c9b10))
+* **deps:** bump the production-dependencies group in /apps/markup-ai with 12 updates ([#7911](https://github.com/vwointegration/marketplace-partner-apps/issues/7911)) ([e4976f7](https://github.com/vwointegration/marketplace-partner-apps/commit/e4976f752790c59867d39a66b835b1a9ed9e0bda))
+* **deps:** bump the production-dependencies group in /apps/markup-ai with 3 updates ([#7631](https://github.com/vwointegration/marketplace-partner-apps/issues/7631)) ([cc5a53d](https://github.com/vwointegration/marketplace-partner-apps/commit/cc5a53d4300961c2bfb2bd32d7c2cf167ebf0e8b))
+* **deps:** bump the production-dependencies group in /apps/markup-ai with 4 updates ([#7245](https://github.com/vwointegration/marketplace-partner-apps/issues/7245)) ([11d21b2](https://github.com/vwointegration/marketplace-partner-apps/commit/11d21b281ab7fae90b1b299026a1dfffebc9d20b))
+* **deps:** bump the production-dependencies group in /apps/markup-ai with 5 updates ([#7559](https://github.com/vwointegration/marketplace-partner-apps/issues/7559)) ([f64e110](https://github.com/vwointegration/marketplace-partner-apps/commit/f64e1109389f7b652248e20d1c57d5e34f20d9a5))
+* **deps:** bump the production-dependencies group in /apps/markup-ai with 7 updates ([#7734](https://github.com/vwointegration/marketplace-partner-apps/issues/7734)) ([e610097](https://github.com/vwointegration/marketplace-partner-apps/commit/e6100971cb27e8a326928ed45759634616f9df31))
+* **deps:** bump yaml from 1.10.2 to 1.10.3 in /apps/markup-ai ([#8013](https://github.com/vwointegration/marketplace-partner-apps/issues/8013)) ([b3f7fe1](https://github.com/vwointegration/marketplace-partner-apps/commit/b3f7fe169f6ea57a1c57e69b3fd41cd55d110a58))
+* **markup-ai:** refine tone and iconography; improve user settings [INTEG-3277] ([#7334](https://github.com/vwointegration/marketplace-partner-apps/issues/7334)) ([df0cba3](https://github.com/vwointegration/marketplace-partner-apps/commit/df0cba303fa3c9330f309db0c35b2c60fafea99f))
+* markupai deploy script [INTEG-3323] ([#7528](https://github.com/vwointegration/marketplace-partner-apps/issues/7528)) ([6c06aa9](https://github.com/vwointegration/marketplace-partner-apps/commit/6c06aa92db73f66868ccfc3e4bfcf4d54fee7bc9))
+
 ## [1.3.0](https://github.com/contentful/marketplace-partner-apps/compare/markup-ai-contentful-app-v1.2.0...markup-ai-contentful-app-v1.3.0) (2026-05-12)
 
 
